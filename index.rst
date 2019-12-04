@@ -74,7 +74,7 @@
   appendix/glossary
   appendix/basics
   tools_vms/windows_tools_vm
-  tools_vms/linux_tools_vm_cloud-init
+  tools_vms/linux_tools_vm
   taskman/taskman
 
 .. _getting_started:
