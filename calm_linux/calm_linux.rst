@@ -136,7 +136,7 @@ VMs in AHV can be deployed based on a disk image. With Calm, you can select a Do
    - **Image Name** - CentOS_7_Cloud
    - **Image Type** - Disk Image
    - **Architecture** - X86_64
-   - **Source URI** - http://download.nutanix.com/calm/CentOS-7-x86_64-GenericCloud.qcow2
+   - **Source URI** - http://download.nutanix.com/calm/CentOS-7-x86_64-1810.qcow2
    - **Product Name** - CentOS
    - **Product Version** - 7
 
